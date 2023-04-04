@@ -4,9 +4,9 @@
 
 ##
 <div>
-  <a href="https://github.com/filipecajado"></a>
+  <a href="https://github.com/filipecajado">
   <img  align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=filipecajado&show_icons=true&theme=radical">
-  <img  align="center" width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipecajado&layout=compact&theme=radical">
+  <img  align="center" width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipecajado&layout=compact&theme=radical"></a>
 </div>
 
 <div style="display: inline_block"><br>
