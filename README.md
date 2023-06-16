@@ -1,6 +1,6 @@
 ### Olá, Eu sou o Filipe Cajado 👋
 
-- 🔭 Estudando o Framework Angular ...
+- 🔭 Aprofundando conhecimentos no Angular ...
 
 ##
 <div>
