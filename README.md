@@ -1,6 +1,6 @@
 ### Olá, Eu sou o Filipe Cajado 👋
 
-- 🔭 Aprofundando conhecimentos no Angular ...
+- 🔭 Aprofundando conhecimentos no Angular e no Spring ...
 
 ##
 <div>
