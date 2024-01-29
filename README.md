@@ -1,6 +1,6 @@
 ### Olá, Eu sou o Filipe Cajado 👋
 
-- 🔭 Aprofundando conhecimentos no Angular e no Spring utilizando MicroServices ...
+- 🔭 Atualmente trabalhando com Spring e Angular, estudando e aprimorando conhecimentos ...
 
 ##
 <div>
