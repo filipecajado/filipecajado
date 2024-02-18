@@ -1,6 +1,7 @@
 ### Olá, Eu sou o Filipe Cajado 👋
 
-- 🔭 Atualmente trabalhando com Spring e Angular, estudando e aprimorando conhecimentos ...
+- 🔭 Atualmente trabalhando com Spring, Angula.
+- 🔭 Estudando atualmente Next.js e Nest.js e aprimorando conhecimentos ...
 
 ##
 <div>
