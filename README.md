@@ -1,7 +1,7 @@
 ### Olá, Eu sou o Filipe Cajado 👋
 
 - 🔭 Atualmente trabalhando com Spring, Angular.
-- 🔭 Estudando atualmente Next.js e aprimorando conhecimentos ...
+- 🔭 Estudando atualmente Flutter e Next.js e aprimorando conhecimentos ...
 
 ##
 <div>
